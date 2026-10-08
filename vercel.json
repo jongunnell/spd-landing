@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://cei.bd.psu.edu/spd",
+      "permanent": false
+    }
+  ]
+}
